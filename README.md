@@ -67,11 +67,3 @@ Este proyecto automatiza la estimación de precios de automóviles usando machin
 - Las visualizaciones y el registro en MLflow aseguran trazabilidad y reproducibilidad del flujo.
 
 ---
-
-## Contacto
-Para dudas o mejoras, contacta al autor del notebook o revisa la documentación de Databricks y MLflow.
-'''
-
-with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-print("README.md generado correctamente.")
