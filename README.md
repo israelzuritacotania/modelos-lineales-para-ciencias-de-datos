@@ -1,7 +1,7 @@
-# modelos-lineales-para-ciencias-de-datos
+# MODELOS-LINEALES-PARA-CIENCIAS-DE-DATOS
 Modulo 10 de la Maestría en Inteligencia Artificial, Machine Learnign y Ciencia de Datos UPEA
 
-readme_content = '''
+
 # Price Estimation – Caso Automóviles TAREA 2
 
 Este proyecto automatiza la estimación de precios de automóviles usando machine learning, reemplazando la valuación manual de expertos. El objetivo es reducir costos y mejorar la precisión de las valuaciones.
